@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "fullName": "raj",
+   "email": "satya124421@gmail.com",
+    "Groups": "student"
+  },
+  {
+    "id": 2,
+    "fullName": "naveen",
+   
+   
+    "email": "satya124421@gmail.com",
+    "Groups": "student"
+  },
+  {
+    "id": 3,
+    "fullName": "Albert",
+   
+   
+    "email": "satya124421@gmail.com",
+    "Groups": "student"
+  },
+  {
+    "id": 4,
+    "fullName": "Ankush",
+   "email": "satya124421@gmail.com",
+    "Groups": "student"
+  },
+  {
+    "id": 5,
+    "fullName": " raj",
+    "email": "satya124421@gmail.com",
+    "Groups": "student"
+  }
+]
